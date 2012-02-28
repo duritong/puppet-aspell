@@ -1,5 +1,5 @@
 class aspell {
-  package{'apsell':
+  package{'aspell':
     ensure => 'installed',
   }
 }
